@@ -1,0 +1,23 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "This is a folder structure created for the web apps",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Boiler",
+    "Plate"
+  ],
+  "author": "Vignesh.P",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^6.1.0",
+    "fs": "0.0.1-security",
+    "sane": "^4.1.0"
+  }
+}
